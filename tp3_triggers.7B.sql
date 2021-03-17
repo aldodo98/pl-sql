@@ -1,0 +1,1 @@
+UPDATE EMP SET SAL = SAL * 1.05;

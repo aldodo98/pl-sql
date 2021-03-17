@@ -1,0 +1,1 @@
+insert into emp values(7000,'zhiao','SALESMAN',7566,to_date('17-12-1980','dd-mm-yyyy'),2200,NULL,20) ;Commit;

@@ -1,0 +1,1 @@
+update emp set job='ANALYST' where ENAME= 'zhiao';Commit;
